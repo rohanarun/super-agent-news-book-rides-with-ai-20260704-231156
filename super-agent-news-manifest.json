@@ -1,0 +1,61 @@
+{
+  "citations": [
+    "[simplilearn.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUNPbl9CS0ZiMEVPZVMzMnFsbDFzRFRaczdPRTdrT09yNjM0SzZ5Y0tqUzgwTGxiSncyRXlTMHk3WFVJTFlQdWNWZ21Da01TU2RMd1RtZkx0eWxSYktZMlV2YW5McTdXaWVvb0QxaWR4YTlTcFY4aHgxNVcyVURNXzc0bzBfNUZtRjRuNzFSSktyUHpzTFBCOG05cW1NNkkzWGxHMHlWbnBRR2s?oc=5)",
+    "[builtin.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG5ETGswUzZmZnAxUzJ1R2VQR2hIQkQwai1KZU9TWExpdGViX3R2NkJMOTVYYTlmV1Jrbk5FcEh1X3M5TnJhRGpNaFdPSTMzUmxiWFZ0S2c5SGFFSjk5c1JJRnlIb05CbEpiYk8ydjJtYmtFRmROSnVCamNHeDNGdld4X1IzQWJ1SWFrYkRwMTA?oc=5)",
+    "[consumerreports.org](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnBDTUJlaU41UTBxTFduWmRNNDJpWF9qTmFqczhkXzBkc3JVMUVkYkhhVlN6R0FHdktwVEtzVW5Ub2ltM1JzMXpnSG5DNU9kb1k0UzRSMS1rdjlIVko0X29FOWxtbG9HMlVTMktndWJpWXB5UWVkMllXVzRMZEN4aTlaSmxEZHR6R0l5eGRxSTc5bjA1cHV2cHZaYkFuWXphcXBQNzZGWFhDd2x6OU9WV0duMWpDakppdHBTbzJqSUZwNWF0VjQxeEF4Mm9yYWtYSGt3RU8wbEZNZw?oc=5)",
+    "[phandroid.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTFqOXo3b0h0Y2pyN25jRUNmZHFDTlhiN29sZ0czVEUxY0tPbnRHZVRZVGNDMjhfMkswN196a3R0U1VVUS0wbGFDVjN5YVdfMllLUlRXUWU2bU42Q3NSa2I0dDJLNWxicHdOVkd1OWFXNW9jTEZGWWp3a1hYekxIRHhDUFpjRFlSSnNYbF83RXRDdFhydnpkTENHU0hKS3ZNNG43a09SeVNKQdIBrwFBVV95cUxOd1pZMThNOHlUSEpTSkVTTnR1NEJNMG93UW9yVmx0WDFjWHl4NU51TFJiMVpIek1qcTRIRkhKdk1FWTFSNWY0cVpmNHNUU1Rual9mcUhDSzZtMnBnR1BpdlpDMU5YeGJYVVJ2U1g1WGVLS3lSRE5rd0NBSkx6WjhnUVF5dWxsSUdTWHZJQS1DM3VGeDljS0lUeFlXQ0tqM2dQVVR4VjN0S3VZMGJHU0pR?oc=5)",
+    "[openai.com](https://news.google.com/rss/articles/CBMiREFVX3lxTE1xbEwxSHdnWW1UbGIwTkV2dEVjbm04UjU2TzEyVEpTdnZZX3VVaUFUVnFybjNsb1QwS0g2Y2x5NTB2Umc3?oc=5)"
+  ],
+  "design_plan": "seed=42; AIDA pass; centered hero math OK (1120px); bento density verified (grid-auto-flow:dense); labels & competitors sweep complete; button contrast pass",
+  "generated_at": "2026-07-04T23:12:03.733152+00:00",
+  "headline": "Book rides with AI \u2014 compare, coordinate, and reuse routes automatically",
+  "site_brief": {
+    "audience": "people who want an AI assistant to compare, book, and coordinate rides",
+    "canonical_url": "https://app.getsupers.com/use-cases/book-rides-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Book rides with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant book rides",
+      "AI agent ride booking",
+      "personal assistant Uber Lyft AI",
+      "computer use AI agent transportation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "book-rides-with-ai",
+    "title": "Book rides with AI",
+    "use_case_intent": "show how Super can help request rides, compare ETAs, handle pickup details, and reuse repeated route preferences"
+  },
+  "summary": "An indexable Super use\u2011case page showing how a personal AI agent can compare ETAs, handle pickup details, and reuse your repeated ride workflows using real computer use and a reusable computer-use cache."
+}
